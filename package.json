@@ -1,0 +1,11 @@
+{
+  "name": "peer_node_challenge",
+  "version": "1.0.0",
+  "description": "peer node challenge as per git repo prime_peer_nd_00",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "author": "Allan & Martha",
+  "license": "ISC"
+}
